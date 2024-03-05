@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+streamlit
+langchain
+pytz
+google-cloud-discoveryengine
+transformers
